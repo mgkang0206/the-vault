@@ -1,5 +1,5 @@
 ---
-title: The Vault
+title: The Vault Lab
 type: lab
 duration: "3:00"
 creator: Brad Zimmerman (SEA)
