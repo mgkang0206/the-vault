@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrackMySafe2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Header">Open The Lock</string>
+
+    <string name="lock_1">1</string>
+    <string name="lock_2">2</string>
+    <string name="lock_3">3</string>
+    <string name="lock_4">4</string>
+</resources>
